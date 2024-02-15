@@ -2,7 +2,6 @@
 
 **Description:**
 Welcome to Restaurantly, a web project that brings the culinary experience to life through a seamless blend of design and functionality. This web application is crafted using HTML, CSS, and JavaScript, with a focus on creating an immersive and user-friendly interface.
-![image](https://github.com/Revanth-Raju/Restaurantly/assets/149313258/a359832e-c522-4d77-81fd-6b5dcad313da)
 
 ![image](https://github.com/Revanth-Raju/Restaurantly/assets/149313258/3f4cee82-c0c0-4d17-a6ec-5f7c2428dd04)
 ![image](https://github.com/Revanth-Raju/Restaurantly/assets/149313258/3f4d1ad2-4515-46ba-afa2-a053ff82f86e)
