@@ -9,6 +9,9 @@ Welcome to Restaurantly, a web project that brings the culinary experience to li
 ![image](https://github.com/Revanth-Raju/Restaurantly/assets/149313258/b1611775-960f-4965-ad42-a661a0d695ea)
 ![image](https://github.com/Revanth-Raju/Restaurantly/assets/149313258/e1decf81-bab4-4bb0-87b3-7f85b3ab9f19)
 
+![Uploading image.png…]()
+
+
 *Key Features:*
 
 **Responsive Navbar:**
